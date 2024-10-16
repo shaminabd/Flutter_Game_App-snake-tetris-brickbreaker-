@@ -1,0 +1,8 @@
+{
+  "title": "Select a Game",
+  "snake": "Snake",
+  "tetris": "Tetris",
+  "brickhead": "Breakout",
+  "login": 'Login',
+  "change_language": "Change Language"
+}

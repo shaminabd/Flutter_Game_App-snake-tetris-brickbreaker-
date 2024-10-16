@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7944645716",
+    "project_id": "fluttergo",
+    "storage_bucket": "fluttergo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7944645716:android:0511feb91b8f43fe4351c1",
+        "android_client_info": {
+          "package_name": "com.flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMSV86oCuwLNmehltqoEcu_-kvyxFeH84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
